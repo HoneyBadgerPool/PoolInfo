@@ -1,0 +1,7 @@
+{
+  "name": "Honey Badger",
+  "description": "Honey Badger Apex Pool",
+  "ticker": "HNYB",
+  "homepage": "",
+  "extended": "https://raw.githubusercontent.com/HoneyBadgerPool/PoolInfo/main/meta-extended.json"
+}
