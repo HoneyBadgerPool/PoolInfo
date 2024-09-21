@@ -1,0 +1,15 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/HoneyBadgerPool/PoolInfo/main/bdgr.png",
+		"url_png_logo": "https://raw.githubusercontent.com/HoneyBadgerPool/PoolInfo/main/bdgr.png",
+		"location": "Earth",
+		"social": {
+			"twitter_handle": "",
+			"discord_handle": ""
+		},
+		"about": {
+			"Pool Name": "Honey Badger"
+		}
+	},
+	"verification": "" 
+}
